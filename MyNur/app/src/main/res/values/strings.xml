@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyNur</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройка</string>
+
+    <string name="menu_home">Башкы бет</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_lugat">Создук</string>
+    <string name="menu_vecizeler">Вежизелер</string>
+    <string name="menu_setting">Настройка</string>
+    <string name="action_help">Помощь</string>
+    <string name="action_our">О нас</string>
+    <string name="menu_info">О нас</string>
+    <string name="menu_namaz">Намаз</string>
+    <string name="menu_kuran">Куран</string>
+    <string name="menu_kaba">Кааба</string>
+    <string name="menu_ai">Орозо календарь</string>
+    <string name="menu_kaza_namaz">Каза намаз</string>
+    <string name="menu_help">Суроо жооп</string>
+    <string name="menu_hadister">Хадистер</string>
+    <string name="menu_dualar">Дуалар</string>
+    <string name="nav_header_subtitle_risale_nur">Риселе-и Нур</string>
+</resources>

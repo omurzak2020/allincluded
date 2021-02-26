@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search"
+            android:title="@string/menu_search" />
+        <item
+            android:id="@+id/nav_kuran"
+            android:icon="@drawable/ic_boook"
+            android:title="@string/menu_kuran" />
+        <item
+            android:id="@+id/nav_hadis"
+            android:icon="@drawable/ic_book_"
+            android:title="@string/menu_hadister" />
+        <item
+            android:id="@+id/nav_dualar"
+            android:icon="@drawable/ic_book_"
+            android:title="@string/menu_dualar" />
+        <item
+            android:id="@+id/nav_kaba"
+            android:icon="@drawable/ic_explore"
+            android:title="@string/menu_kaba" />
+        <item
+            android:id="@+id/nav_namaz"
+            android:icon="@drawable/ic_time"
+            android:title="@string/menu_namaz" />
+        <item
+            android:id="@+id/nav_kaza_namaz"
+            android:icon="@drawable/ic_time"
+            android:title="@string/menu_kaza_namaz" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help"
+            android:title="@string/menu_help" />
+        <item
+            android:id="@+id/nav_ai"
+            android:icon="@drawable/ic_brightness"
+            android:title="@string/menu_ai" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_book"
+            android:title="@string/menu_lugat" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_widget"
+            android:title="@string/menu_vecizeler" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="@string/menu_setting" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/menu_info" />
+    </group>
+</menu>
